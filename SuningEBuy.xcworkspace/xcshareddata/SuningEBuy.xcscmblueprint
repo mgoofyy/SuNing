@@ -1,0 +1,42 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3d598fef-304e-46d8-940e-79c4e810d450++4336",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "3d598fef-304e-46d8-940e-79c4e810d450++2407" : {
+
+    },
+    "3d598fef-304e-46d8-940e-79c4e810d450++4336" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BFB8C0E8F52A327A238703AA76B586980F0114D9" : 0,
+    "3d598fef-304e-46d8-940e-79c4e810d450++2407" : 0,
+    "3d598fef-304e-46d8-940e-79c4e810d450++4336" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C13B6452-DF76-4F99-845C-572A29889F01",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BFB8C0E8F52A327A238703AA76B586980F0114D9" : "",
+    "3d598fef-304e-46d8-940e-79c4e810d450++2407" : "SSA_IOS.framework\/",
+    "3d598fef-304e-46d8-940e-79c4e810d450++4336" : "SuningEBuy.xcworkspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.130.17\/svn\/2012_Terminal_code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3d598fef-304e-46d8-940e-79c4e810d450++2407"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.130.17\/svn\/2012_Terminal_code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3d598fef-304e-46d8-940e-79c4e810d450++4336"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mgoofyy\/SuNingIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BFB8C0E8F52A327A238703AA76B586980F0114D9"
+    }
+  ]
+}
